@@ -9,7 +9,7 @@
 //REVIEW: 4/69 JAVASCRIPT JE RETARDIRAN
 
 
-export const projekti_resources_root_dir = "/resources/vizualizacije/";
+export const projekti_resources_root_dir = "./NotableThings.github.io/resources/vizualizacije/";
 export const all_projects = [
   {
       "id":0,
